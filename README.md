@@ -11,24 +11,20 @@ Curated implementations of **Searching, Sorting, and Data Structures** in C.
 - **06_Trees** — Binary Tree Traversals; BST insert/search/delete
 - **07_Graphs** — BFS & DFS
 
-How to Run
-
-Clone or download the repository.
-
-Open a terminal in the repository folder.
-
-Compile any program, for example:
-
-gcc quicksort.c -o quicksort
-
-./quicksort
-
-Provide input if prompted, and view the output.
+## ▶️ How to Run  
+1. Clone or download the repository.  
+2. Open a terminal in the repository folder.  
+3. Compile any program, for example:  
+   ```bash
+   gcc quicksort.c -o quicksort
+   ./quicksort
+4. Provide input if prompted, and view the output.
 
 ## Notes
 
-Each file is self-contained and can be run independently.
+- Each file is self-contained and can be run independently.
+- Programs cover classic DSA problems commonly included in undergraduate coursework.
 
-Programs cover classic DSA problems commonly included in undergraduate coursework.
+---
 
 This repo shows my fundamentals in **C programming + DSA**.  
